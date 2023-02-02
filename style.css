@@ -1,0 +1,18 @@
+body i {
+    font-size: xx-large;
+}
+
+.buttons .btnAdd-green {
+    color: green;
+}
+.buttons .btnSave-yellow {
+    color: rgb(255, 123, 0);
+}
+.buttons .btnChange-blue {
+    color: blue;
+}
+.buttons .btnDelete-red {
+    color: red;
+}
+
+
