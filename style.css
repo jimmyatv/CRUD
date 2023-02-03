@@ -1,7 +1,6 @@
 body {
     background-image: url(./img/crud.png);
     background-size: cover;
-    background-position: ;
 }
 
 body i {
@@ -17,17 +16,17 @@ body i:hover {
     color: rgb(54, 156, 54);
 }
 .buttons .btnSave-yellow {
-    color: rgb(255, 123, 0);
+    color: rgb(171, 223, 28);
 }
 .buttons .btnChange-blue {
-    color: rgb(115, 115, 228);
+    color: rgb(108, 108, 206);
 }
 .buttons .btnDelete-red {
     color: rgb(202, 65, 65);
 }
 
 .buttons .btnBack-red {
-    color: red;
+    color: rgb(255, 255, 255);
 }
 
 .buttons input {
