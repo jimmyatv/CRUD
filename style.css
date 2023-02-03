@@ -1,18 +1,44 @@
+body {
+    background-image: url(./img/crud.png);
+    background-size: cover;
+    background-position: ;
+}
+
 body i {
     font-size: xx-large;
 }
 
+body i:hover {
+    transition: .3s linear;
+    opacity: 0.6;
+}
+
 .buttons .btnAdd-green {
-    color: green;
+    color: rgb(54, 156, 54);
 }
 .buttons .btnSave-yellow {
     color: rgb(255, 123, 0);
 }
 .buttons .btnChange-blue {
-    color: blue;
+    color: rgb(115, 115, 228);
 }
 .buttons .btnDelete-red {
+    color: rgb(202, 65, 65);
+}
+
+.buttons .btnBack-red {
     color: red;
+}
+
+.buttons input {
+    background-color: #D1E7DD;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.inputTable {
+    opacity: 0.9;
 }
 
 
